@@ -26,7 +26,7 @@ Used slicers, bar charts, pie charts, and KPIs.
   Business impact & Insights
 
   6. Screenshots / Demos
-     
+     https://github.com/viveksingh444/Marketing-campaign-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 
 
    
