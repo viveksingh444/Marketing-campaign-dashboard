@@ -1,5 +1,5 @@
 # Marketing-campaign-dashboard
-Recommended Structure and Other
+
 1.Project Tittle / Headline
 A concise, descriptive name for the dashboard.
 Example:
